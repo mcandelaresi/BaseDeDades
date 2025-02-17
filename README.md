@@ -11,7 +11,7 @@ Aquí encontrarás:
 
 ## 🛠️ Herramientas y tecnologías  
 🔹 **SQL** (MySQL)
-🔹 **Diseño ER MySQL Workbench**
+🔹 **Diseño ER con MySQL Workbench**
 
 ## 📢 Contacto  
 Si quieres compartir ideas, mejoras o colaborar puedes contactarme a través de **mijaelcandelaresi9@gmail.com**.  
