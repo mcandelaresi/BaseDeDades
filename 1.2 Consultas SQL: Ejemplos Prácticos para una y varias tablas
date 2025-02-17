@@ -1,1 +1,9 @@
+# 📝 Consultas SQL | Tablas Simples y Relacionales 💾
 
+📢 **Bienvenido/a a este repositorio** dedicado a consultas SQL, donde encontrarás ejemplos prácticos de consultas sobre **una y varias tablas**.
+
+## 📌 Índice  
+1. [📷 Modelo Relacional](#-modelo-relacional)  
+2. [🛠 Consultas SQL](#-consultas-sql)  
+   - [🔹 Consultas en una tabla](#-consultas-en-una-tabla)  
+   - [🔹 Consultas en varias tablas (JOINs)](#-consultas-en-varias-tablas-joins) 
