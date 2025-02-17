@@ -1,0 +1,7 @@
+# 1.2 Consultas SQL: Ejemplos Prácticos para una y varias tablas
+- [1.2 Base de dades Recursos Humans](#12-base-de-dades-recursos_humans)
+  - [1.2.1 Model relacional](#121-model-relacional)
+  - [1.2.2 Consultes sobre una taula amb funcions](#123-consultes-sobre-una-taula-amb-funcions)
+  - [1.2.3 Consultes sobre una taula utilitzant agrupaments](#124-consultes-sobre-una-taula-utilitzant-agrupaments)
+  - [1.2.4 Consultes multitaula (JOINs)](#125-consultes-multitaula-joins) 
+## 1.2.1 Model relacional
